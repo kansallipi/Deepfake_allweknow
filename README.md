@@ -1,10 +1,9 @@
-# Awesome Deepfakes Detection![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Everything we know about DeepFake Detection
 
 A list of Deepfakes Detection datasets, tools, papers and code. If this list help you in your research, a star is my pleasure.
 
 If you want to contribute to this list, welcome to send me a pull request or contact me :) .
 
-This repo only collect papers related to Deepfake Detection. If you are also interested in Deepfakes, please refer to: [Awesome Deepfakes](https://github.com/Daisy-Zhang/Awesome-Deepfakes).
 
 ## Contents
 
