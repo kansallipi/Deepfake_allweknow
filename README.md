@@ -1,9 +1,5 @@
 # Everything we know about DeepFake Detection
 
-A list of Deepfakes Detection datasets, tools, papers and code. If this list help you in your research, a star is my pleasure.
-
-If you want to contribute to this list, welcome to send me a pull request or contact me :) .
-
 
 ## Contents
 
